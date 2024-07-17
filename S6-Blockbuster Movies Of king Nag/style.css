@@ -1,0 +1,153 @@
+#mainBody{
+    background-color: rgb(201, 65, 101);
+}
+#mainHead{
+    text-align: center;
+    background-color: aqua;
+    font-size: 2.5rem;
+    border: 10px solid rebeccapurple;
+    border-radius: 20px;
+}
+#shivaPoster{
+    width: 300px;
+    height: 300px;
+}
+#massPoster{
+    width: 300px;
+    height: 300px;
+    opacity: 0.5;
+}
+#kingPoster{
+    width: 300px;
+    height: 300px;
+    opacity: 0.6;
+}
+#kingBody{
+    background-color: aqua;
+}
+#massBody{
+    background-color: rgb(38, 255, 0);
+}
+#shivaBody{
+    background-color: sienna;
+}
+#mainHeadKing{
+    text-align: center;
+    background-color: aqua;
+    font-size: 2.5rem;
+    border: 10px solid rebeccapurple;
+    border-radius: 20px;
+}
+#mainHeadMass{
+    text-align: center;
+    background-color: aqua;
+    font-size: 2.5rem;
+    border: 10px solid rebeccapurple;
+    border-radius: 20px;
+}
+#mainHeadShiva{
+    text-align: center;
+    background-color: aqua;
+    font-size: 2.5rem;
+    border: 10px solid rebeccapurple;
+    border-radius: 20px;
+}
+#jD{
+    background-color: chocolate;
+    text-align: center;
+    color: bisque;
+}
+#aA{
+    background-color: chocolate;
+    text-align: center;
+    color: bisque;
+}
+#jO{
+    background-color: chocolate;
+    text-align: center;
+    color: bisque;
+}
+#cH{
+    background-color: chocolate;
+    text-align: center;
+    color: bisque;
+}
+#sR{
+    background-color: chocolate;
+    text-align: center;
+    color: bisque;
+}
+#bRS{
+    background-color: chocolate;
+    text-align: center;
+    color: bisque;
+}
+#jdPic{
+    width: 400px;
+    height: 400px;
+}
+#amalaPic{
+    width: 400px;
+    height: 400px;
+}
+#sriPic{
+    width: 400px;
+    height: 400px;
+}
+#bramhaPic{
+    width: 400px;
+    height: 400px;
+}
+#jyothiPic{
+    width: 400px;
+    height: 400px;
+}
+#charmiPic{
+    width: 400px;
+    height: 400px;
+}
+#homeButton{
+    background-color:greenyellow;
+    border: 5px solid rgb(255, 0, 136);
+    border-radius: 50px;
+}
+#jdDescription{
+    display:inline-block;
+    width: 1000px;
+    text-align: justify;
+    overflow: auto;   
+}
+#amalaDescription{
+    display: inline-block;
+    width: 900px;
+    height: 350px;
+    text-align: justify;
+    overflow: scroll;
+}
+#jyothikaDescription{
+    display: inline-block;
+    width: 900px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+#charmiDescription{
+    display: inline-block;
+    width: 500px;
+    height: 800px;
+}
+#srihariDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 100px;
+    text-align: justify;
+    overflow: auto;
+}
+#bramhaDescription{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    text-align: justify;
+    overflow: auto;
+}
+
